@@ -22,7 +22,7 @@ export default {
   name: 'bottom',
   data () {
     return {
-    	title: 'Contact Me',
+    	title: 'Contact By Linkedin',
     	// desc: '© 2023 Preface . All rights reserved | Design by Xianda Du.'
     }
   }

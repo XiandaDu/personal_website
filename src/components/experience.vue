@@ -5,25 +5,32 @@
   	  <h1 class="title">{{title}}</h1>
   	  <span class="border"></span>
   	  <ul class="content">
+        <li>
+          <div class="content_left tx_right">
+            <span class="s2"></span>
+            <h4>May 2023 - August 2023 </h4>
+          </div>
+          <div class="content_right tx_left">
+            <h4>Shenzhen Dianmao Technology Ltd.</h4>
+            <p>
+              * Developed a company bot to test natural language processing AIs using Spring Boot. <br>
+              * Utilized OkHttp, Retrofit2, Postman and Jackson to connect the APIs of natural language AI into the company bot for my colleagues to use and test. <br>
+              * Created RESTful APIs optimized for high QPS (Queries Per Second) and deployed it into the company server for commercial use. <br>
+              * Collected and created dataset for the fine-tuning of AIs. I explored the possibility to combine the current business with customized AI.</p>
+          </div>
+          <div class="clearfix"></div>
+        </li>
   	  	<li>
   	  		<div class="content_left tx_right">
   	  		  <span class="s1"></span>
-  	  		  <h4>May 2023 - August 2023 </h4>
-  	  		</div>
-  	  		<div class="content_right tx_left">
-  	  		  <h4>公司名1</h4>
-  	  		  <p>相关项目详细介绍...</p>
-  	  		</div>
-  	  		<div class="clearfix"></div>
-  	  	</li>
-  	  	<li>
-  	  		<div class="content_left tx_right">
-  	  		  <span class="s2"></span>
   	  		  <h4>June 2022 - August 2022 </h4>
   	  		</div>
   	  		<div class="content_right tx_left">
-  	  		  <h4>Shenzhen Dianmao Technology Ltd.</h4>
-  	  		  <p>相关项目详细介绍...</p>
+  	  		  <h4>Guizhou Shijixinyuan Tech Ltd</h4>
+  	  		  <p>
+              * Applied Vue.js, Vue Router, JavaScript, and CSS to create and improve the company's website with more customized color and layout. <br>
+              * Used Ajax to send asynchronous HTTP requests, interact with the backend for data, and update and render the page based on the returned results. <br>
+              * Perused the documents of the cooperative company's products, sorted out the flow chart to colleagues, and improved the overall efficiency of the company.</p>
   	  		</div>
   	  		<div class="clearfix"></div>
   	  	</li>

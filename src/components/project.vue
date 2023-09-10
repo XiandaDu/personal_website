@@ -5,10 +5,10 @@
       <h1 class="title">{{title}}</h1>
       <span class="border"></span>
       <ul>
-        <li><img src="../common/images/web1.jpg" alt="项目1"></li>
-        <li><img src="../common/images/web1.jpg" alt="项目2"></li>
-        <li><img src="../common/images/web1.jpg" alt="项目3"></li>
-        <li><img src="../common/images/web1.jpg" alt="项目4"></li>
+        <li><a href="http://www.allendu.me:81"><img src="../common/images/campus_system.jpg" alt="campus management system pic"></a>Campus Management System</li>
+        <li><a href="https://github.com/XiandaDu/geesepotter"><img src="../common/images/geese.jpg" alt="geese spotter img"></a>Geese Spotter</li>
+<!--        <li><img src="../common/images/web1.jpg" alt="项目3"></li>-->
+<!--        <li><img src="../common/images/web1.jpg" alt="项目4"></li>-->
         <div class="clearfix"></div>
       </ul>
     </div>
@@ -20,7 +20,7 @@ export default {
   name: 'project',
   data () {
     return {
-      title: '我的项目'
+      title: 'My Projects'
     }
   }
 }
